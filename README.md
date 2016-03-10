@@ -1,2 +1,7 @@
 # hello-world
-Training session about git
+
+Hi Humans!
+
+It is training session about git.
+We are PHP Training Lviv company.
+We train PHP coding.
